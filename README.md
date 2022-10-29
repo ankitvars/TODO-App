@@ -11,7 +11,8 @@ A todo web application that helps you to add your tasks with some features.
 
 #Snaps
 ![Screenshot (15)](https://user-images.githubusercontent.com/50518011/198845642-e22b88d1-5793-410f-9bdf-6a06f70f2877.png)
-![Screenshot (17)](https://user-images.githubusercontent.com/50518011/198845645-ba6c0393-56ee-4364-9958-67330c772bd4.png)
+![Screenshot (16)](https://user-images.githubusercontent.com/50518011/198845662-521890f6-19dd-4d8e-a44c-fa456aeecae7.png)
+
 
 
 #Made Using following 
